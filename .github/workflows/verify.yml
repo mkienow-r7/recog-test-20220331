@@ -1,8 +1,6 @@
 name: Verify
 
 on:
-  # TODO: remove workflow_dispatch - added for simple testing
-  workflow_dispatch:
   push:
     branches:
       - master
